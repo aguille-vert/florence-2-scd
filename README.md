@@ -16,7 +16,7 @@ Even the most advanced Warehouse Management Systems depend on humans, and humans
 <p align="center">
     <a href="https://github.com/aguille-vert/florence-2-scd/blob/main/images/carton_01.png" target="_blank">
         <figure>
-            <img src="https://github.com/aguille-vert/florence-2-scd/blob/main/images/carton_00.png" alt="Example of labeled image of stacked cartons" width="100"/>
+            <img src="https://github.com/aguille-vert/florence-2-scd/blob/main/images/carton_01.png" alt="Example of labeled image of stacked cartons" width="100"/>
             <figcaption>Image of annotated stacked cartons</figcaption>
         </figure>
     </a>
