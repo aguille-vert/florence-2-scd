@@ -7,3 +7,9 @@
         <img src="https://github.com/aguille-vert/florence-2-scd/blob/main/images/carton_00.png" alt="Unlabeled stacked cartons" width="100"/>
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/aguille-vert/florence-2-scd/blob/main/images/carton_01.png" target="_blank">
+        <img src="https://github.com/aguille-vert/florence-2-scd/blob/main/images/carton_00.png" alt="Unlabeled stacked cartons" width="100"/>
+    </a>
+</p>
