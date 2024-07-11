@@ -5,7 +5,7 @@ Even the most advanced Warehouse Management Systems depend on humans, and humans
 
 This repository contains notebooks and code to fine-tune and deploy Florence-2 model. We are using Stacked Carton Dataset to fine-tune the model to recognize segments of carton boxes stacked on pallets in warehouses. Identifying box segments is the first step to match boxes to a product index from WMS. The second step is to OCR each segment to extract text written on the boxes. The third step is to identify barcodes on the cartons. The fourth step involves matching barcodes and text to the product index.  
 
-The two imeges below show an example of an image from SCD dataset: 
+The two images below show an example of an image from SCD dataset: 
 * without annotated segments
 * with annotated segments
 
@@ -44,4 +44,8 @@ In this notebook we download Stacked Carton Dataset and explore its contents
 In this notebooks we make the necessary tarnsformations and create the following 3 datasets:
 * train_df
 * val_df
-* test_df
+* test_df  
+
+[3_florence_2_zero_shot.ipynb](https://github.com/aguille-vert/florence-2-scd/blob/main/notebooks/3_florence_2_zero_shot.ipynb)  
+
+In this notebook we test zero-shot Florence-2 performance on a selection of images from val_df. We can see that the model shows quite a reasonable accuracy and thus is a good candidate for fine-tuning.
