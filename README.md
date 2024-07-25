@@ -41,7 +41,7 @@ In this notebook we download Stacked Carton Dataset and explore its contents
 
 [1_SCD_create_train_val_ds.ipynb](https://github.com/aguille-vert/florence-2-scd/blob/main/notebooks/1_SCD_create_train_val_ds.ipynb)  
 
-In this notebooks we make the necessary tarnsformations and create the following 3 datasets:
+In this notebook we make the necessary tarnsformations and create the following 3 datasets:
 * train_df
 * val_df
 * test_df  
